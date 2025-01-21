@@ -1,9 +1,9 @@
 # last updated: Jan 20 2025
 
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==2.1.0+cu121
-torchvision==0.15.2+cu121
-torchaudio==2.1.0+cu121
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+torchaudio==2.0.1+cu118
 opencv-python==4.8.1.78
 pandas==1.5.3
 Pillow==10.0.1
